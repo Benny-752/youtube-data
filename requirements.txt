@@ -1,5 +1,5 @@
-pandas 1.5.3
-Streamlit 1.19.0
-pymongo 4.5.0
-google-api-python-client 2.91.0
-Plotly 5.17.0
+pip install pandas==1.5.3
+pip install Streamlit==1.19.0
+pip install pymongo==4.5.0
+pip install google-api-python-client==2.91.0
+pip install plotly==5.17.0
